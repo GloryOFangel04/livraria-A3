@@ -1,2 +1,1 @@
-# livraria-A3
-projeto de uma livraria 
+# site-livraria-a3
